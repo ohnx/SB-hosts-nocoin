@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# encoding=utf8
 
 # Script by Ben Limmer
 # https://github.com/l1m5

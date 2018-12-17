@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 15 Dec 2018 13:11:04 GMT
-# entries:        2927
+# last updated:   Sun, 16 Dec 2018 08:27:06 GMT
+# entries:        2939
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 20 Dec 1998 00:00:00
+# start date:    Tue, 22 Dec 1998 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -903,6 +903,8 @@
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
+0.0.0.0 affrh2014.com
+0.0.0.0 affrh2022.com
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 afterview.ru
 0.0.0.0 agreeableprice.com
@@ -1267,7 +1269,11 @@
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
 0.0.0.0 clixgalore.com
+0.0.0.0 clk1005.com
+0.0.0.0 clk1011.com
+0.0.0.0 clk1015.com
 0.0.0.0 clkrev.com
+0.0.0.0 clksite.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 cloudcoins.biz
 0.0.0.0 clrstm.com
@@ -1468,6 +1474,8 @@
 0.0.0.0 ebuzzing.com
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclick.vn
+0.0.0.0 eclkmpbn.com
+0.0.0.0 eclkspbn.com
 0.0.0.0 economicpizzas.com
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
@@ -1751,6 +1759,7 @@
 0.0.0.0 inaccused.com
 0.0.0.0 inboxdollars.com
 0.0.0.0 incentaclick.com
+0.0.0.0 inclk.com
 0.0.0.0 incognitosearches.com
 0.0.0.0 incrediblesugar.com
 0.0.0.0 indexstats.com
@@ -1917,6 +1926,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 max.i12.de
 0.0.0.0 maximumcash.com
+0.0.0.0 maxonclick.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mdotm.com
@@ -2001,6 +2011,7 @@
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
 0.0.0.0 myaffiliateprogram.com
+0.0.0.0 mybestmv.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
@@ -2352,6 +2363,7 @@
 0.0.0.0 revcontent.com
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
+0.0.0.0 revenuehits.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 richmails.com

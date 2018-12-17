@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 10 Dec 2018 at 06:03:53 GMT
+# Last updated: Sat, 15 Dec 2018 at 21:27:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2945,6 +2945,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.froling.bee.pl
 0.0.0.0 www.gacatl.com
 0.0.0.0 www.gezinti.com
+0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.gns-consola.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.gozatar.com
@@ -2963,6 +2964,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kbdiu5z8ah.us
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.kinomarathon.ru
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.likeportal.com			# Facebook trojan
@@ -10196,7 +10198,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 secimage.adtech.us
 0.0.0.0 secondchancecoaching.com
-0.0.0.0 secret.xn--oogle-wmc.com
+0.0.0.0 secret.xn--oogle-3fa01c.com
 0.0.0.0 secretlanguage.co
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secserv.adtech.fr
@@ -14154,8 +14156,8 @@ ff02::3		ip6-allhosts
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
 #  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, Michael O'Donnell, José Lucas Teixeira
-#  de Oliveira, M. Ömer Gölgeli, and Anthony Gelibert for helping to build 
+#  Marschall, Michael Tompkins, Michael O'Donnell, Jose Lucas Teixeira
+#  de Oliveira, M. Omer Golgeli, and Anthony Gelibert for helping to build 
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information
