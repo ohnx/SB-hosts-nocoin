@@ -633,6 +633,7 @@ def create_initial_file():
         end = "# End {}\n\n".format(os.path.basename(os.path.dirname(source)))
 
         with open(source, "r") as curFile:
+            print(source)
             write_data(merge_file, start + curFile.read() + end)
 
     # spin the sources for extensions to the base file
